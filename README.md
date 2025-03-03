@@ -65,7 +65,7 @@ To prepare the dataset for model training, the following preprocessing steps wer
 
 - Smoker: Yes (0), No (1)
 
-![Imagee_alt]()
+![Imagee_alt](https://github.com/Shamiso-Tirivanhu/Medical-Cost-Insurance-Prediction-Using-Python-Machine-Learning/blob/988a2ca0517be866c55a8c992e6684ef50ba2df9/Smoker%20Distribution%20screenshot.png)
 
 
 
