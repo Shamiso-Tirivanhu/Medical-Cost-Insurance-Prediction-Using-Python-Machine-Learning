@@ -20,6 +20,8 @@
 
 9. [Future Improvements](#future-improvements)
 
+10. [Conclusion](#conclusion)
+
 ## 1. Overview
 
 This project aims to predict medical insurance costs based on various factors such as age, gender, BMI, number of children, smoking status, and region. By leveraging machine learning techniques, this model provides a reliable estimate of insurance charges, which can be useful for both insurance companies and individuals seeking to understand how different factors influence their insurance costs.
@@ -150,3 +152,7 @@ OR
 - Hyperparameter tuning to improve model accuracy
 
 - Deployment of the model using Flask or FastAPI for real-world use cases
+
+## 10. Conclusion
+
+This project successfully demonstrates the use of machine learning techniques to predict medical insurance costs based on various demographic and health-related factors. The Linear Regression model provided a good balance between simplicity and accuracy, achieving a strong R² score on both training and testing data. The insights from this model can help individuals and insurance companies better understand cost determinants. Future improvements, such as testing more advanced models and deploying the solution as a web application, can enhance its practical usability and accuracy.
