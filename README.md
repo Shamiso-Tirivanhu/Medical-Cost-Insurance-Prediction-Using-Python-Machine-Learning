@@ -40,7 +40,7 @@ The dataset used in this project consists of 1,338 entries with the following fe
 
 - Children: Number of children covered by health insurance
 
-[!image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Medical-Cost-Insurance-Prediction-Using-Python-Machine-Learning/blob/3fb18d4c038ff2ba8bffa0fa1c86c0abd7377d1b/Children%20Distribution%20screenshot.png)
 
 
 - Smoker: Whether the individual is a smoker or not
