@@ -71,7 +71,7 @@ To prepare the dataset for model training, the following preprocessing steps wer
 
 - Region: Southwest (0), Northwest (1), Southeast (2), Northeast (3)
 
-[!image_alt](https://github.com/Shamiso-Tirivanhu/Medical-Cost-Insurance-Prediction-Using-Python-Machine-Learning/blob/7add9cd6a1fc8745a58797f7057b67535f7b9b4a/Region%20Distribution%20screenshot.png)
+![image_alt](https://github.com/Shamiso-Tirivanhu/Medical-Cost-Insurance-Prediction-Using-Python-Machine-Learning/blob/7add9cd6a1fc8745a58797f7057b67535f7b9b4a/Region%20Distribution%20screenshot.png)
 
 
 
