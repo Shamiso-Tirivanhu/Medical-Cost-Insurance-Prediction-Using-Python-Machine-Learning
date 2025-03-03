@@ -35,7 +35,7 @@ The dataset used in this project consists of 1,338 entries with the following fe
 - BMI: Body Mass Index
 
 
-[!image_alt]()
+[!image_alt](https://github.com/Shamiso-Tirivanhu/Medical-Cost-Insurance-Prediction-Using-Python-Machine-Learning/blob/372a222f60bdf1f98871417bd53749e49897dd08/BML%20Distribution%20screenshot.png)
 
 
 - Children: Number of children covered by health insurance
