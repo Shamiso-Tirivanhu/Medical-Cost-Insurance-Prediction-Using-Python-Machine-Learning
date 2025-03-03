@@ -59,13 +59,13 @@ To prepare the dataset for model training, the following preprocessing steps wer
 
 - Sex: Male (0), Female (1)
 
-[!image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Medical-Cost-Insurance-Prediction-Using-Python-Machine-Learning/blob/81e44afda2007eddff5a80739c792f310f4755d2/Sex%20Distribution%20screenshot.png)
 
 
 
 - Smoker: Yes (0), No (1)
 
-[!Imagee_alt]()
+![Imagee_alt]()
 
 
 
